@@ -1,7 +1,7 @@
 # STAR user client documentation
 The STAR user client is the frontend interface to this text to speech relay system. With it, you can connect to any coagulator you know about before synthesizing text into audio that can either be played through speakers or rendered to audio files.
 
-If you are trying to learn how to host a coagulator so that your friends can share voices, then this [coagulator quickstart guide](https://github.com/samtupy/star/blob/main/coagulator/readme.md) on STAR's github will help you do that.
+If you are trying to learn how to host a coagulator so that your friends can share voices, then this [coagulator quickstart guide](https://github.com/seediffusion/star/blob/main/coagulator/readme.md) on STAR's github will help you do that.
 
 Almost all of the star client's functionality can be accessed via keyboard shortcuts, usually alt+letter.
 

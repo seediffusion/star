@@ -1,5 +1,5 @@
 # Speech To Audio Relay (STAR)
-[Download windows client](https://github.com/samtupy/star/releases/latest/download/STAR_win64_v4.zip)
+[Download windows client](https://github.com/seediffusion/star/releases/latest/download/Seediffusion_STAR.zip)
 
 This is a set of components intended to ease the creation of audio productions that involve the synthesis of text to speech to audio, particularly where many voices that might be contained on any number of different computers or devices are involved.
 
